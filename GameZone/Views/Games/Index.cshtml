@@ -1,0 +1,54 @@
+﻿@using GameZone.Settings
+@model IEnumerable<Game>
+@{
+    ViewData["Title"] = "Games";
+}
+
+<a class="btn btn-secondary btn-lg" asp-action="Create">
+    <i class="bi bi-plus-circle-dotted s"></i>
+    Add Game
+</a>
+
+@if (!Model.Any())
+{
+   <div class="alert alert-warning mt-5 text-center">
+   
+    <h4 class="alert-heading">No Games!</h4>
+    <p class="mb-0">NO Games were added yet!</p>
+    </div>
+}else
+{
+    <div class="mt-5">
+        <table class="table table-bordered border-primary">
+            @foreach(var game in Model)
+            {
+                <tr class="border-1 border-success">
+                    <td>
+                        <div class="d-flex">
+                            <img src="@($"{FileSettings.ImagePath}/{game.Cover}")" alt="@game.Name" style="max-width:90px" />
+                            <div class="d-flex flex-column justify-content-center ms-3">
+                                <h4>@game.Name</h4>
+                                <h5>@game.Category.Name</h5>
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="align-middle ">
+                        <div class="d-flex justify-content-end pe-3">
+                            <a asp-action="Edit" asp-route-Id="@game.Id" class="btn btn-info rounded rounded-3 me-2">
+                                <i class="bi bi-pencil-fill"></i>
+                            </a>
+                            <a href="#" class="btn btn-danger rounded rounded-3 js-delete" data-id="@game.Id">
+                                <i class="bi bi-trash3"></i>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+}
+@section Scripts{
+    <script src="~/js/games-index-delete.js" asp-append-version="true"></script>
+}

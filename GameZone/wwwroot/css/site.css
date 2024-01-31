@@ -1,0 +1,75 @@
+
+* {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.review{
+    max-height:500px;
+    border-radius:8px;
+
+}
+
+.js-example-basic-single {
+    width: 200px; /* Set your desired width */
+    color: #ffffff; /* Text color */
+    background-color: #30115e; /* Background color */
+    border: 1px solid #286090; /* Border color */
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: gainsboro;
+   
+}
+/* Style the selected option */
+.select2-selection__rendered {
+    color: blue; /* Text color of the selected option */
+    background-color: #30115e; /* Background color of the selected option */
+}
+
+.select2-container--default .select2-selection--single .select2-selection__placeholder {
+    color: white; /* Set the color of the placeholder text */
+}
+.select2-container--default .select2-selection--multiple{
+    height:23px
+}
+.select2-selection__arrow {
+    color: white;  /*#286090;  Color of the dropdown arrow */
+}
+
+/* Style the dropdown list items */
+.select2-results__option {
+    color: #333333; /* Text color of the dropdown items */
+    background-color: #ffffff; /* Background color of the dropdown items */
+}
+
+div:where(.swal2-container).swal2-center > .swal2-popup {
+    background-color: #1a0933 ;
+}
+div:where(.swal2-container) h2:where(.swal2-title) {
+    color:#fff;
+}
+div:where(.swal2-container) .swal2-html-container{
+    color:#fff;
+}

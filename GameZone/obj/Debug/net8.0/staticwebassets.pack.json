@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GameZone\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameZone.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\assets\\images\\6bca33b4-b50c-4577-ab70-938c7be7ed31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6bca33b4-b50c-4577-ab70-938c7be7ed31.jpg"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\jquery-validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\js\\games-index-delete.js",
+      "PackagePath": "staticwebassets\\js\\games-index-delete.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\js\\validation-filesize.js",
+      "PackagePath": "staticwebassets\\js\\validation-filesize.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\GameZone\\GameZone\\wwwroot\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameZone.props",
+      "PackagePath": "build\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameZone.props",
+      "PackagePath": "buildMultiTargeting\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameZone.props",
+      "PackagePath": "buildTransitive\\GameZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
